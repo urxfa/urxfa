@@ -1,12 +1,13 @@
-<div align=center>
-  Being useful is hard, but I try my best
+<div align="center">
+
+  [![skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,golang,linux,bash,mysql,aws)](https://skillicons.dev)
+  
 </div>
 
 ----
-<div align="center">
 
-  [![skills](https://skillicons.dev/icons?i=js,html,css,nodejs,c,java,linux,bash,powershell,mysql)](https://skillicons.dev)
-  
+<div align=center>
+  Being useful is hard, but I try my best
 </div>
 
 ----
